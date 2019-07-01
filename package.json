@@ -1,0 +1,22 @@
+{
+  "name": "careerscrimmage-backend-utils",
+  "version": "1.0.0",
+  "description": "Backend utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajm4zs/CareerScrimmage-backend-utils.git"
+  },
+  "author": "Alex Mulchandani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajm4zs/CareerScrimmage-backend-utils/issues"
+  },
+  "homepage": "https://github.com/ajm4zs/CareerScrimmage-backend-utils#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
